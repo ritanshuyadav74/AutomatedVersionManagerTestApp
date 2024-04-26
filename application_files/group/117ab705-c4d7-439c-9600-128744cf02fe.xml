@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<groupHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <versionUuid>117ab705-c4d7-439c-9600-128744cf02fe</versionUuid>
+    <group>
+        <name>AVMTA Users</name>
+        <securityMap>SECURITYMAP_TEAM</securityMap>
+        <uuid>117ab705-c4d7-439c-9600-128744cf02fe</uuid>
+        <groupTypeUuid>SYSTEM_GROUP_TYPE_CUSTOM</groupTypeUuid>
+        <description>Assigns Viewer permissions to users for objects in the application</description>
+        <delegatedCreation>false</delegatedCreation>
+        <memberPolicy>MEMBERPOLICY_CLOSED</memberPolicy>
+        <viewingPolicy>VIEWINGPOLICY_LOW</viewingPolicy>
+        <attributes/>
+    </group>
+    <members>
+        <users/>
+        <groups>
+            <groupUuid>15ffcf6d-f829-490e-b2bc-7f59c6d35ff9</groupUuid>
+        </groups>
+    </members>
+    <admins>
+        <users/>
+        <groups>
+            <groupUuid>15ffcf6d-f829-490e-b2bc-7f59c6d35ff9</groupUuid>
+        </groups>
+    </admins>
+    <ruleSet/>
+    <history>
+        <historyInfo versionUuid="117ab705-c4d7-439c-9600-128744cf02fe"/>
+    </history>
+</groupHaul>
